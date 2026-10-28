@@ -1,0 +1,13 @@
+partner_id,partner_name,channel_type,commission_pct
+P01,Direct - App,Direct,0.0
+P02,Direct - Branch,Direct,0.0
+P03,Direct - Website,Direct,0.0
+P04,SalaryAdvance Hub,Affiliate,3.5
+P05,LoanCompare ZA,Comparison,4.0
+P06,ClickCredit,Affiliate,5.0
+P07,MzansiRefer,Affiliate,4.5
+P08,Quick Quotes,Comparison,3.0
+P09,Payday Pal,Affiliate,6.0
+P10,CampusCash,Affiliate,5.5
+P11,TaxiRank Media,Media,2.5
+P12,Influencer Network,Influencer,7.0
